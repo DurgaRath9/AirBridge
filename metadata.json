@@ -1,0 +1,6 @@
+{
+  "name": "AirBridge",
+  "description": "Offline-first high-speed Android to Laptop backup and file transfer with Wi-Fi, USB, end-to-end encryption, and real-time desktop portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
